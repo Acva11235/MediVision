@@ -71,4 +71,4 @@ NeuroInsight AI's next phase aims to make the system **completely autonomous**, 
 
 **Achintya Varshneya**
 
-I'm an AI/ML enthusiast with a passion for turning ideas into reality. Always up for a new challenge, especially if it involves cool tech. Let’s just say, I like to keep things innovatively awesome! 😎
+I'm an AI/ML enthusiast with a passion for turning ideas into reality. Driven by curiosity, I’m constantly exploring the limitless possibilities of AI to push the boundaries of what's possible. Always up for a new challenge, especially if it involves cool tech. Let’s just say, I like to keep things innovatively awesome! 😎
